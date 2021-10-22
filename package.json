@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "yarn nodemon ./src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
